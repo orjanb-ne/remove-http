@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Remove HTTP
+ * Plugin Name: Remove HTTP (NE)
  * Plugin URI: https://wordpress.org/plugins/remove-http/
  * Description: Removes both HTTP and HTTPS protocols from links.
  * Version: 2.1.1

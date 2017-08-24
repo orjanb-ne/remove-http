@@ -1,4 +1,8 @@
 ## Changelog
+### 2.1.1
+*2017-08-24*
+* Added support for relative domain paths
+
 ### 2.1.0
 *2017-04-09*
 * Restored option to ignore external links
